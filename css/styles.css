@@ -1,0 +1,19 @@
+body {
+    background-color: azure;
+  }
+
+  h3{
+    color: rgb(106, 234, 15);
+  }
+
+  h1{
+    color: rgb(67, 159, 42);
+  }
+
+  hr{
+    border-style: none;
+    border-top: Dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+  }
